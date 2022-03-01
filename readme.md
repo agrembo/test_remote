@@ -1,5 +1,7 @@
 readme file loading ..
 
 read file still loading 
-waiting on Tom 
-Tom are you there??
+Was never waiting on Tom 
+Did you know Tom is actually Tobie 
+Yes I know anyways...merge conflict loadibg... 
+
